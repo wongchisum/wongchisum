@@ -24,7 +24,7 @@
 
 ## 仓库详情:
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=wongchisum&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=wongchisum&show_icons=true&theme=radical)](https://github.com/wongchisum/wongchisum)
 
 ## 开源的 npm 包:
 
@@ -32,7 +32,7 @@
 
 如果你的项目需要频繁创建相同类型的文件（如：创建一个组件，需要新增样式、逻辑、类型、测试文件），不妨尝试这个 cli 工具，配合 npm scripts 去快速创建文件。
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=wongchisum&repo=create-folder-helper&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=wongchisum&repo=create-folder-helper&theme=radical)](https://github.com/wongchisum/create-folder-helper)
 
 ### @wongchisum/react-flow-components
 
@@ -42,28 +42,33 @@
 
 通过组件的方式让 jsx 更语义化，更加简洁的表达。
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=wongchisum&repo=react-flow-components&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=wongchisum&repo=react-flow-components&theme=radical)](https://github.com/wongchisum/react-flow-components)
 
 ### @wongchisum/malita
 
 根据 xiaohuoni 教程进行类 umi 框架（malita）开发。https://github.com/xiaohuoni/malita
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=wongchisum&repo=umi-like-learn-and-pratice&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=wongchisum&repo=umi-like-learn-and-pratice&theme=radical)](https://github.com/wongchisum/umi-like-learn-and-pratice)
 
 ## 学习和实践的 Demo：
 
 react 相应测试技术链的探索和学习：
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=wongchisum&repo=react-test-learn-and-pratice&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=wongchisum&repo=react-test-learn-and-pratice&theme=radical)](https://github.com/wongchisum/react-test-learn-and-pratice)
 
 使用 pnpm 进行 monorepo 形式的开发:
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=wongchisum&repo=pnpm-monorepo-learn-and-pratice&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=wongchisum&repo=pnpm-monorepo-learn-and-pratice&theme=radical)](https://github.com/wongchisum/pnpm-monorepo-learn-and-pratice)
 
 使用 hooks 的形式去做异步请求的状态管理:
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=wongchisum&repo=react-request-hook&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=wongchisum&repo=react-request-hook&theme=radical)](https://github.com/wongchisum/react-request-hook)
 
 React hooks 的学习和实践：
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=wongchisum&repo=react-hooks-learn-and-pratice&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=wongchisum&repo=react-hooks-learn-and-pratice&theme=radical)](https://github.com/wongchisum/react-hooks-learn-and-pratice)
+
+
+使用React hooks的方式管理表单:
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=wongchisum&repo=react-form-hooks&theme=radical)](https://github.com/wongchisum/react-form-hooks)
