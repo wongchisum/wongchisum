@@ -30,7 +30,7 @@
 
 ### @wongchisum/create-folder-helper
 
-如果你的项目需要频繁创建相同类型的文件（如：创建一个组件，需要新增样式、逻辑、类型、测试文件），不妨尝试这个 cli 工具，配合 npm scripts 去款速创建文件。
+如果你的项目需要频繁创建相同类型的文件（如：创建一个组件，需要新增样式、逻辑、类型、测试文件），不妨尝试这个 cli 工具，配合 npm scripts 去快速创建文件。
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=wongchisum&repo=create-folder-helper&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
